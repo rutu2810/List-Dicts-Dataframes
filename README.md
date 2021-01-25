@@ -1,1 +1,1 @@
-# ML_Practical-1
+# ML_Practicals
